@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top5Filmes</title>
+</head>
+<body>
+    <h1>Meus 5 filmes favoritos!</h1>
+    <p>Conheça os melhores filmes de todos os tempos s2</p>
+</body>
+<style>
+    body{background-color: rgb(227, 228, 228);}
+
+</style>
+<header>
+    <div>
+    <h2>Top 1- O Senhor dos Anéis</h2>
+    <h3>Trilogia</h3>
+    <img src="https://br.web.img2.acsta.net/medias/nmedia/18/92/34/89/20194741.jpg" alt="Capa do filme de O Senhor dos Anéis" style="height: 400px;">
+    <p>Localizada no mundo ficcional na Terra Média, os três filmes seguem o jovem hobbit Frodo Bolseiro em sua missão de destruir o "Um Anel", assegurando assim também a destruição de seu criador, o Senhor das Trevas Sauron. Para auxiliá-lo em sua tarefa, forma-se uma sociedade, composta por representantes dos humanos, hobbits, elfos e anões, encarregados de sua segurança pelos estranhos caminhos que terá que seguir. <br> No entanto, a sociedade quebra-se e Frodo continua sua jornada sozinho, apenas acompanhado por seu amigo fiel, Samwise Gamgee, e pelo traiçoeiro Gollum, um dos antigos possuidores do "Um Anel". Ao mesmo tempo, o mago Gandalf e o humano Aragorn, herdeiro exilado do trono de Gondor, unem-se e juntam o Povo Livre da Terra Média em uma guerra, finalmente vitoriosa, contra Sauron.</p>
+</div>
+<DIV>
+    <h2>Top 2- Guerra Mundial Z </h2>
+    <img src="https://www.cineset.com.br/wp-content/uploads/2014/08/Guerra-Mundial-Z.jpg" alt="Imagem do filme Guerra mundial z" style="height: 400px;" >
+    <p>Uma terrível e misteriosa doença se espalha pelo mundo, transformando as pessoas em uma espécie de zumbis. A velocidade do contágio é impressionante e logo o Governo americano recruta um ex-investigador da ONU (Organização das Nações Unidas) para investigar o que pode estar acontecendo e assim salvar a humanidade, tendo em vista que as previsões são as mais catastróficas possíveis. Gerry Lane (Brad Pitt) tinha optado por dedicar mais tempo a sua esposa Karen (Mireille Enos) e as filhas, mas seu amor a pátria e o desejo de salvar sua família acabam contribuindo para que ele tope a missão. Agora, ele precisa percorrer o caminho inverso da contaminação para tentar entender as causas ou, ao menos, indentificar uma maneira de conter o contágio até que se descubra uma cura antes do  apocalipse. Começa uma verdadeira corrida contra o tempo, que mostra-se cada vez mais curto, na medida que a população de humanos não para de diminuir. </p>
+</DIV>
+<div>
+    <h2>Top 3- Avatar</h2>
+    <img src="https://s2.glbimg.com/hVMpAeY0rBQoH7HJB8EAcuj_ozI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/m/d/anTjJ9RdAtAzpHlf6b0Q/filme-avatar-1.png" alt="Imagem do filme avatar" style="height: 400px;">
+    <p>James Cameron, diretor do ‘blockbuster’ Titanic, tece nas telas uma história arrebatadora, vibrante e muito atual. Quando em todo o Planeta a maior preocupação do Homem é a destruição crescente do meio ambiente, somada à distância cada vez maior da humanidade em relação às forças da Natureza, Avatar conquista um espaço fundamental no imaginário humano e também uma invejável coleção de indicações ao Oscar 2010.</p>
+</div>
+<div>
+    <h2>Top 4- Eu sou a Lenda</h2>
+    <img src="https://cinepop.com.br/wp-content/uploads/2022/02/eu-sou-a-lenda.jpg" alt="Imagem do filme eu sou a lenda"  style="height: 400px;" >
+    <p>Um terrível vírus incurável, criado pelo homem, dizimou a população de Nova York. Robert Neville (Will Smith) é um cientista brilhante que, sem saber como, tornou-se imune ao vírus. Há 3 anos ele percorre a cidade enviando mensagens de rádio, na esperança de encontrar algum sobrevivente. Robert é sempre acompanhado por vítimas mutantes do vírus, que aguardam o momento certo para atacá-lo. Paralelamente ele realiza testes com seu próprio sangue, buscando encontrar um meio de reverter os efeitos do vírus.</p>
+</div>
+<div>
+    <h2>Top 5- Como eu era antes de você</h2>
+    <img src="https://epipoca.com.br/wp-content/uploads/2021/02/Como-Eu-Era-Antes-de-Voce-b.jpg" alt="Imagem do filme como eu era antes de você" style="height: 400px;">
+    <p>Em Como Eu Era Antes de Você, o rico e bem sucedido Will (Sam Claflin) leva uma vida repleta de conquistas, viagens e esportes radicais até ser atingido por uma moto. O acidente o torna tetraplégico, obrigando-o a permanecer em uma cadeira de rodas. A situação o torna depressivo e extremamente cínico, para a preocupação de seus pais (Janet McTeer e Charles Dance). É neste contexto que Louisa Clark (Emilia Clarke) é contratada para cuidar de Will. De origem modesta, com dificuldades financeiras e sem grandes aspirações na vida, ela faz o possível para melhorar o estado de espírito de Will e, aos poucos, acaba se envolvendo com ele.</p>
+</div>
+
+</header>
+</html>
